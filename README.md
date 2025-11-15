@@ -19,9 +19,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,linux,vscode,fastapi,react,tailwind" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css,bash,react,nodejs,spring,tailwind,pytorch,tensorflow,sklearn,seaborn,pandas,aws,docker,mongodb,mysql,postman,figma" />
 </p>
 
 ---
