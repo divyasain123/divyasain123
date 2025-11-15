@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divya Sain</h1>
-<h3 align="center">Aspiring AI/ML & Full-Stack Developer | Python | GenAI | LangChain</h3>
+<h3 align="center">AI/ML Enthusiast | Python | GenAI | LangChain</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=divyasain123&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
