@@ -37,11 +37,12 @@
 
 ---
 
-## 🔥 GitHub Streak
+🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=divyasain123&theme=tokyonight" />
 </p>
+
 
 ---
 
