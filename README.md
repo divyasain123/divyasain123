@@ -40,7 +40,7 @@
 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=divyasain123&theme=tokyonight" />
+  <img src="https://streak-stats.vercel.app?user=divyasain123&theme=tokyonight" />
 </p>
 
 
