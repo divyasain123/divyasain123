@@ -11,7 +11,7 @@
 
 - 🌱 Currently learning **AI, LangChain, GenAI, Python automation**
 - 💡 Loves building **mini-projects**, automation tools & AI apps  
-- 🚀 Improving skills every day  
+- 🚀 Improving skills every day
 - 📩 Reach me at: **saindivya77@gmail.com**
 
 ---
@@ -43,10 +43,6 @@
   <img src="https://streak-stats.vercel.app?user=divyasain123&theme=tokyonight" />
 </p>
 
-
 ---
-
-
-
 
 
